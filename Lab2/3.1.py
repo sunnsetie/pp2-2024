@@ -1,3 +1,3 @@
 #Lists
 fruits = ["apple", "banana", "cherry"]
-print()
+print(fruits[1])
